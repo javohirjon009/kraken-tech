@@ -1,0 +1,8 @@
+{
+  "name": "KRAKEN TECH INDUSTRIES",
+  "description": "Cyberpunk-styled IT startup web application featuring advanced digital solutions, robotics, and an automated interview system.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
